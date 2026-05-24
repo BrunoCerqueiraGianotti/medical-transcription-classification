@@ -20,12 +20,12 @@ https://www.kaggle.com/datasets/tboyle10/medicaltranscriptions
 
 - [x] Definição do problema
 - [x] Planejamento e cronograma
-- [ ] Análise exploratória dos dados (EDA)
-- [ ] Tratamento e limpeza dos dados
-- [ ] Vetorização de texto (NLP)
-- [ ] Treinamento de modelos de classificação
-- [ ] Avaliação de desempenho
-- [ ] Storytelling e apresentação final
+- [x] Análise exploratória dos dados (EDA)
+- [x] Tratamento e limpeza dos dados
+- [x] Vetorização de texto (NLP)
+- [x] Treinamento de modelos de classificação
+- [x] Avaliação de desempenho
+- [x] Storytelling e apresentação final
 
 ## 🧪 Técnicas Utilizadas
 
